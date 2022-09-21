@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Routes = () => {
+const Home = () => {
   return (
     <div>
-      
+        <p>Home Page</p>
     </div>
   )
 }
 
-export default Routes
+export default Home
